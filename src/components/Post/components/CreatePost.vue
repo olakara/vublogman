@@ -1,0 +1,3 @@
+<template>
+    Create Post
+</template>

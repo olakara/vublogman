@@ -1,0 +1,3 @@
+<template>
+    Update Post
+</template>
